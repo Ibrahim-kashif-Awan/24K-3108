@@ -4,7 +4,7 @@
 - I have completed my matric and itermediate from Punjab College Okara.
 - I am curently doing bachelors in Software Engineering From FAST NUCES Karachi.
 - I am Interested in Coding, Programmig and IT in general.
-- I aim to become a full time develepor and software engineer and look forward to starting my own business in the coming years.
+- I aim to become a full time develepor and software engineer and look forward to start my own business in the coming years.
 - I hope to meet and collaborate with professionals and software engineers in the market to expand my scope of thinking and improve my skills.
 
 ![SEPic](https://github.com/user-attachments/assets/671c5ff4-7568-4a1a-bcec-dac593f2c3b1)
